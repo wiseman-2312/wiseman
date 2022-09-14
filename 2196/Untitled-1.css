@@ -1,0 +1,19 @@
+
+        input{
+            font-weight:bolder;
+            font-family:Arial;
+            border:solid 0.5px black;
+            background-color:red;
+            color:white;
+        }
+        .skills-wrapper{
+            position:absolute;
+            right:0;
+            left:0;
+            top:48px;
+            display:none;
+        }
+        #personal-details-wrapper{
+            display:none;
+        }
+    
